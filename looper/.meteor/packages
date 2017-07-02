@@ -22,7 +22,12 @@ session@1.1.7
 meteorhacks:flow-layout
 meteorhacks:flow-router
 mrt:bootstrap-3
+<<<<<<< HEAD
 useraccounts:bootstrap
 accounts-password@1.3.6
 accounts-google@1.1.2
 dynamic-import
+=======
+accounts-base
+accounts-ui
+>>>>>>> parent of 75bceaa... Pre-patch backup

@@ -1,10 +1,4 @@
 
-FlowRouter.route(['/login'],{
-    action: function(){
-        FlowLayout.render('login');
-    }
-});
-
 FlowRouter.route(['/','/home'],{
     subscriptions:function(){
         Meteor.subscribe('audio');
