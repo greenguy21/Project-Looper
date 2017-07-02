@@ -22,5 +22,6 @@ session
 meteorhacks:flow-layout
 meteorhacks:flow-router
 mrt:bootstrap-3
-accounts-base
-accounts-ui
+useraccounts:bootstrap
+accounts-password
+accounts-google
