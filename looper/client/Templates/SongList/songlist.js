@@ -16,6 +16,8 @@ Template.songlist.events({
                 currentSong.pause();
             }
             currentSong = new Audio(song.url());
+            //currentSongName = song.name();
+            Session.set("currentSongName", song.name());
             currentSong.play();
         } else {
             console.log("Not an audio file, will not play");
