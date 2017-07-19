@@ -11,6 +11,7 @@ FlowRouter.route(['/','/home'],{
     },
     action: function(){
         FlowLayout.render('main',{main:'home'});
+        document.getElementById()
     }
 });
 

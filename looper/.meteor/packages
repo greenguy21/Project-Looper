@@ -22,7 +22,7 @@ session@1.1.7
 meteorhacks:flow-layout
 meteorhacks:flow-router
 mrt:bootstrap-3
-useraccounts:bootstrap
+accounts-ui-unstyled
 accounts-password@1.3.6
 accounts-google@1.2.0
 dynamic-import

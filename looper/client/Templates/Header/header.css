@@ -1,0 +1,16 @@
+#login-sign-in-link {
+    display: block;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 10px;
+}
+
+#login-buttons {
+    vertical-align: middle;
+    display: block;
+    text-decoration: none;
+}
+
+.accounts-dialog a{
+    text-decoration: none;
+}
